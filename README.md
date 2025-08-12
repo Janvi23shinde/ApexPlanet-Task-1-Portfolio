@@ -9,7 +9,7 @@
 - JavaScript: Button that shows an alert message
 
 ## Technologies
-HTML5, CSS3, JavaScript
+HTML, CSS, JavaScript
 
 ## View Project
 [Live Demo](https://janvi23shinde.github.io/ApexPlanet-Task-1-Portfolio/)
